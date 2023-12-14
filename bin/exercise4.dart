@@ -11,8 +11,8 @@ class Person {
 }
 
 void main() {
-  Person chokun = Person("Chokun", 20, 174.0);
+  Person chokun = Person("Chokun", 20, 1.74);
   chokun.printDescription();
-  Person nut = Person("Nut", 19, 160);
+  Person nut = Person("Nut", 19, 1.60);
   nut.printDescription();
 }
